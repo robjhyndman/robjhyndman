@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/robjhyndman/robjhyndman/master/blackboard_timeseries.jpg" align="center;" width="100%">
 
-![](blackboard_timeseries.jpg)
-
 - 🧑 I'm a statistician/data scientist at [Monash University, Australia](http://monash.edu).
 - 🔭 I mostly work on analysing and forecasting large collections of time series.
 - 🎓 I am part of [Monash NUMBATs](https://numbat.space/).
