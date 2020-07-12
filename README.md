@@ -1,4 +1,3 @@
-
 ![](blackboard_timeseries.jpg)
 
 - 🧑 I'm a statistician/data scientist at Monash University, Australia.
