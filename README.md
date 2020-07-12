@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/robjhyndman/robjhyndman/master/blackboard_timeseries.jpg" align="center;" width="550px">
+<img src="https://raw.githubusercontent.com/robjhyndman/robjhyndman/master/blackboard_timeseries.jpg" align="center;" width="100%">
 
 ![](blackboard_timeseries.jpg)
 
