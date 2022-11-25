@@ -11,3 +11,4 @@
 - ✍ I write the [Hyndsight blog](https://robjhyndman.com/hyndsight/).
 - 📚 I write [papers and books](https://robjhyndman.com/publications/).
 - 🎾 I play [tennis](http://hprtc.org.au/).
+- Find me on <a rel = "me" href="https://aus.social/@robjhyndman">Mastodon</a>
