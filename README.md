@@ -4,11 +4,10 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robjhyndman&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
 
 - 🧑 I'm a statistician/data scientist at [Monash University, Australia](http://monash.edu).
-- 🔭 I mostly work on analysing and forecasting large collections of time series.
+- 🔭 I analyse and forecast collections of time series, and find anomalies in data sets.
 - 🎓 I am part of [Monash NUMBATs](https://numbat.space/).
 - 💻 I support [open science and open data](https://ropensci.org/).
 - 📦 I write [R packages](https://robjhyndman.com/software/).
 - ✍ I write the [Hyndsight blog](https://robjhyndman.com/hyndsight/).
 - 📚 I write [papers and books](https://robjhyndman.com/publications/).
 - 🎾 I play [tennis](http://hprtc.org.au/).
-- Find me on <a rel = "me" href="https://aus.social/@robjhyndman">Mastodon</a>
